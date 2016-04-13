@@ -1,0 +1,56 @@
+Day : {
+	"Monday" : [
+		{
+			"time": "10:00",
+			"index":"10:00 早安拾光",
+			"name" : "艾咪沒邏輯 Amy no logic"
+		},
+		{
+			"time": "12:00",
+			"index":"12:00 音樂共和國",
+			"name" : "音樂解離劑 Music DID"
+		},
+		{
+			"time": "14:05",
+			"index":"14:05 輕鬆玩音樂",
+			"name" : "布魯診療間 Blues Clinic"
+		},
+		{
+			"time": "15:00",
+			"index":"15:00 三樂繞樑",
+			"name" : "遺失的美好 Beautiful Solitude"
+		},
+		{
+			"time": "16:00",
+			"index":"16:00 藝文四界樑",
+			"name" : "音樂團團轉 Music Band Collection"
+		},
+		{
+			"time": "17:00",
+			"index":"17:00 生活五夠讚",
+			"name" : "我的中二時代 Back to Childhood"
+		},
+		{
+			"time": "18:00",
+			"index":"18:00 綜藝真六水",
+			"name" : "仙球奇緣 Magic Crystal Ball"
+		},
+		{
+			"time": "19:10",
+			"index":"19:10 炸七獵人",
+			"name" : "Epic Trash Show"
+		},
+		{
+			"time": "20:05",
+			"index":"20:05 熱力爆榜",
+			"name" : "韓瘋快遞K-pop on Air"
+		},
+		{
+			"time": "22:00",
+			"index":"222:00 夢醒十分",
+			"name" : "浮生若夢 Have a Good Dream"
+		}
+
+	]
+
+}
