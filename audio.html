@@ -4,17 +4,27 @@
 	<script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
 	
 	<script type="text/javascript" >
-	console.log("Yes");
+	// console.log("Yes");
 
 	$.getJSON('http://suwenyu.github.io/VNCCU/audio.json', function(json) {
-			console.log(json);
+			console.log(json.Monday[0].time);
 			/*optional stuff to do after success */
 	});
+
+
+	var time = new Date().getTime();
+	var date = new Date(time);
+	n = date.toString()
+	tokendate = n.split(" ");
+	// console.log(tokendate);
+	console.log(tokendate[4]);
+	console.log(tokendate)
+	// if tokendate[4] > json
+
 	</script>
 	</head>
 	<body>
 		<!-- <audio autoplay="" controls="controls" style="width: 100%;"><source src="http://140.119.169.34:8000/ade.taiwan.ogg" type="audio/ogg"></source> <source src="http://140.119.169.34:8000/ade.taiwan.mp3" type="audio/mpeg"></source></audio> -->
-
 	</body>
 
 </html>
