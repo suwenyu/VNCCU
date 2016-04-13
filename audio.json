@@ -51,6 +51,218 @@
 			"name" : "浮生若夢 Have a Good Dream"
 		}
 
+	],
+	"Tuesday" : [
+		{
+			"time": "10:00",
+			"index":"10:00 早安拾光",
+			"name" : "向海的路 Way to the sea"
+		},
+		{
+			"time": "12:00",
+			"index":"12:00 音樂共和國",
+			"name" : "音樂銀河系 Music Galaxy"
+		},
+		{
+			"time": "14:05",
+			"index":"14:05 輕鬆玩音樂",
+			"name" : "謬思卡劇場 Musical Theatre"
+		},
+		{
+			"time": "15:00",
+			"index":"15:00 三樂繞樑",
+			"name" : "音樂青春派 Young Style"
+		},
+		{
+			"time": "16:00",
+			"index":"16:00 藝文四界樑",
+			"name" : "最後致藝 Last Bow for art"
+		},
+		{
+			"time": "17:00",
+			"index":"17:00 生活五夠讚",
+			"name" : "興趣製造機 Hobby Machine"
+		},
+		{
+			"time": "18:00",
+			"index":"18:00 綜藝真六水",
+			"name" : "偷摸妲己 Tomodachi"
+		},
+		{
+			"time": "19:10",
+			"index":"19:10 炸七獵人",
+			"name" : "宇宙小姐愛放電 Miss Universe make eyes at drama"
+		},
+		{
+			"time": "20:05",
+			"index":"20:05 熱力爆榜",
+			"name" : "HOT!華語 Chinese Hits"
+		},
+		{
+			"time": "22:00",
+			"index":"222:00 夢醒十分",
+			"name" : "沒有廚師的居酒屋 izakaya without chef"
+		}
+
+	],
+	"Wednesday" : [
+		{
+			"time": "10:00",
+			"index":"10:00 早安拾光",
+			"name" : "樂境十分 Happy Momentum"
+		},
+		{
+			"time": "12:00",
+			"index":"12:00 音樂共和國",
+			"name" : "音樂夢不落 Alice’s Dream"
+		},
+		{
+			"time": "14:05",
+			"index":"14:05 輕鬆玩音樂",
+			"name" : "好鄉好鄉你 Country-flavored Pie"
+		},
+		{
+			"time": "15:00",
+			"index":"15:00 三樂繞樑",
+			"name" : "道南町古書店"
+		},
+		{
+			"time": "16:00",
+			"index":"16:00 藝文四界樑",
+			"name" : "婚天囍地 Wedding party"
+		},
+		{
+			"time": "17:00",
+			"index":"17:00 生活五夠讚",
+			"name" : "小森食光 Little Forest"
+		},
+		{
+			"time": "18:00",
+			"index":"18:00 綜藝真六水",
+			"name" : "終結負能量 Termination of Negative Energy"
+		},
+		{
+			"time": "19:10",
+			"index":"19:10 炸七獵人",
+			"name" : "浪漫韓屋 Full Korean House"
+		},
+		{
+			"time": "20:05",
+			"index":"20:05 熱力爆榜",
+			"name" : "放洋樂 POP MUSIC!"
+		},
+		{
+			"time": "22:00",
+			"index":"222:00 夢醒十分",
+			"name" : "釋放小週末 Wednesday here we go"
+		}
+
+	],
+	"Thursday" : [
+		{
+			"time": "10:00",
+			"index":"10:00 早安拾光",
+			"name" : "海盜電台 Radio Rock"
+		},
+		{
+			"time": "12:00",
+			"index":"12:00 音樂共和國",
+			"name" : "音樂莫格爾 Music Morgue"
+		},
+		{
+			"time": "14:05",
+			"index":"14:05 輕鬆玩音樂",
+			"name" : "洛克不二雄 Rock the Mix and Match"
+		},
+		{
+			"time": "15:00",
+			"index":"15:00 三樂繞樑",
+			"name" : "神田川之歌 Song of LGBT"
+		},
+		{
+			"time": "16:00",
+			"index":"16:00 藝文四界樑",
+			"name" : "Movie on the way"
+		},
+		{
+			"time": "17:00",
+			"index":"17:00 生活五夠讚",
+			"name" : "青春養樂多 Let’s be healthy"
+		},
+		{
+			"time": "18:00",
+			"index":"18:00 綜藝真六水",
+			"name" : "愛神啾咪特 Love God Is Coming"
+		},
+		{
+			"time": "19:10",
+			"index":"19:10 炸七獵人",
+			"name" : "硬地街 Indie Crush"
+		},
+		{
+			"time": "20:05",
+			"index":"20:05 熱力爆榜",
+			"name" : "粵帶風暴 CantoPOP!"
+		},
+		{
+			"time": "22:00",
+			"index":"222:00 夢醒十分",
+			"name" : "午夜唱片行 Midnight Records"
+		}
+
+	],
+	"Friday" : [
+		{
+			"time": "10:00",
+			"index":"10:00 早安拾光",
+			"name" : "日光機場 Morning Airport"
+		},
+		{
+			"time": "12:00",
+			"index":"12:00 音樂共和國",
+			"name" : "Music Traveler"
+		},
+		{
+			"time": "14:05",
+			"index":"14:05 輕鬆玩音樂",
+			"name" : "威肯不斷電 Weeknd Loves Electro"
+		},
+		{
+			"time": "15:00",
+			"index":"15:00 三樂繞樑",
+			"name" : "粵音部落 The Tribal Voice"
+		},
+		{
+			"time": "16:00",
+			"index":"16:00 藝文四界樑",
+			"name" : "穿樂劇場 Travel L’opera"
+		},
+		{
+			"time": "17:00",
+			"index":"17:00 生活五夠讚",
+			"name" : "一本書的故事 How the story begins"
+		},
+		{
+			"time": "18:00",
+			"index":"18:00 綜藝真六水",
+			"name" : "台灣噗攏共 Taiwan Pu-Rong-Kong"
+		},
+		{
+			"time": "19:10",
+			"index":"19:10 炸七獵人",
+			"name" : "母雞鬧華語 Chick Chick the Chinese"
+		},
+		{
+			"time": "20:05",
+			"index":"20:05 熱力爆榜",
+			"name" : "Gate to Japan"
+		},
+		{
+			"time": "22:00",
+			"index":"222:00 夢醒十分",
+			"name" : "Late Night Madness"
+		}
+
 	]
 
 }
